@@ -19,7 +19,7 @@
     <repository>
       <id>myapp-releases</id>
       <name>myapp-releases</name>
-      <url>http://ec2-13-232-220-168.ap-south-1.compute.amazonaws.com:8081/nexus/content/repositories/myapp-releases/</url>
+      <url>http://ec2-13-232-220-168.ap-south-1.compute.amazonaws.com:8081/nexus/content/repositories/myapp-release/</url>
     </repository>
     <snapshotRepository>
       <id>myapp-snapshots</id>
